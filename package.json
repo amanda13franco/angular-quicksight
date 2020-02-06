@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
+    "amazon-quicksight-embedding-sdk": "^1.0.6",
+    "aws-sdk": "^2.610.0",
+    "aws4": "^1.9.1",
+    "jshint": "^2.11.0",
+    "request": "^2.88.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
